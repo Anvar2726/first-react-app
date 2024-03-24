@@ -12,7 +12,7 @@ export const Contact = () => {
                 <h2>
                     Contact Us
                 </h2>
-                <p>
+                <p className={style['contact__left__text']}>
                     In dignissim euismod pretium amet enim a eu nam ut urna accumsan pellentesque lacus duis pharetra eutortor.
                 </p>
                 <div>
@@ -72,5 +72,6 @@ export const Contact = () => {
     </section>
   )
 }
+
 
 export default Contact;
