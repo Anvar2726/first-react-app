@@ -107,7 +107,7 @@
 .contact__form{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 10px;
 }
 
 .contact__form input{
